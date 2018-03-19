@@ -98,6 +98,7 @@ nav ul li a:hover:before{
     margin: 0 auto;
     margin-bottom: 500px;
     text-align: center;
+    background: url("ProPic.jpg");
 
 }
 .box{
